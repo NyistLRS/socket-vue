@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+html,body,ul,ol{
+    margin: 0;
+    padding: 0;
+}
+div,header,footer,section {
+    box-sizing: border-box;
+}
+body {
+    background-color: #F2F2F2;
+}
